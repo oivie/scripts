@@ -9,6 +9,7 @@ This repository contains a collection of utility scripts written in Python and S
 - **data_pipeline.py**: Demonstrates a data pipeline for transforming and processing data.
 - **etl_pipeline.py**: Example of an ETL pipeline for extracting, transforming, and loading data.
 - **xml_to_json_indirect_mapping.py**: Converts data from XML to JSON format with indirect data mapping logic.
+- **data_pipeline_api_calls_and_ml_integration.py**: Involves data transformation, API interaction, and MLOps pipeline automation
 
 ### Shell Scripts
 - **calculate_add_multiply.sh**: Performs basic arithmetic operations (addition and multiplication).
